@@ -1,14 +1,18 @@
-## Hi there 👋
+Aadhitya Varshan Durgadevi Vijaisenthil  
+🔭 I work on ML projects that read ICU data, build backend systems for fintech, and run large compute jobs on HiPerGator. I’ve built dashboards at Lockheed Martin, improved payment flows at Build Up, and shipped data tools at Dartexon.
 
-I build systems that turn messy data into something useful. I work across ML, backend engineering, and high scale compute. I like problems that feel too heavy and I break them down until they move.
+🌱 I’m learning more about clinical AI, high scale compute, reinforcement learning, and systems design.
 
-### What I enjoy
-- Building ML systems that create real impact  
-- Writing backend code that scales  
-- Working at the edge of data and engineering  
+📫 Reach me at reachaadhityavarshan@gmail.com or on LinkedIn.
 
-### What I’m learning
-- Clinical AI  
-- High performance computing  
-- Reinforcement learning  
-- Better system design  
+📗 Interests: Machine Learning, Clinical AI, Backend Engineering, Signal Processing, Data Systems, HPC
+
+🍣 Fun facts: I like building side projects that push compute limits, and I grew up around tech and logistics before diving into data.
+
+⭐ I help lead UF’s Data Science and Informatics Club, where we run projects, workshops, and partner events.
+
+Connect with me:  
+aadhityavarshan  
+
+Languages and Tools:  
+python cplusplus java R javascript dart react flutter nodejs flask tensorflow pytorch postgresql mysql sqlite duckdb firebase aws docker html css matplotlib seaborn opencv```
