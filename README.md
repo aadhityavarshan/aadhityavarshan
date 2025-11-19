@@ -1,18 +1,48 @@
-Aadhitya Varshan Durgadevi Vijaisenthil  
-🔭 I work on ML projects that read ICU data, build backend systems for fintech, and run large compute jobs on HiPerGator. I’ve built dashboards at Lockheed Martin, improved payment flows at Build Up, and shipped data tools at Dartexon.
+# Aadhitya Varshan Durgadevi Vijaisenthil
 
-🌱 I’m learning more about clinical AI, high scale compute, reinforcement learning, and systems design.
+🧠 I work on ML systems that read ICU data at UF, build backend systems for fintech at Build Up, and create high scale data tools used at Lockheed Martin and Dartexon.
 
-📫 Reach me at reachaadhityavarshan@gmail.com or on LinkedIn.
+🌱 I’m learning more about clinical AI, agentic systems, high scale compute, and reinforcement learning.
 
-📗 Interests: Machine Learning, Clinical AI, Backend Engineering, Signal Processing, Data Systems, HPC
+📫 Reach me at **reachaadhityavarshan@gmail.com** or through my **LinkedIn**.
 
-🍣 Fun facts: I like building side projects that push compute limits, and I grew up around tech and logistics before diving into data.
+📘 Research Interests: Clinical AI, Machine Learning, Backend Engineering, Signal Processing, HPC, Data Systems
 
-⭐ I help lead UF’s Data Science and Informatics Club, where we run projects, workshops, and partner events.
+🔥 Fun facts: I like building projects that push compute limits, and I grew up around tech and logistics before diving deep into data.
 
-Connect with me:  
-aadhityavarshan  
+⭐ I serve as Internal Vice President of UF’s Data Science and Informatics Club, where we run workshops, projects, and partnerships in data and AI.
 
-Languages and Tools:  
-python cplusplus java R javascript dart react flutter nodejs flask tensorflow pytorch postgresql mysql sqlite duckdb firebase aws docker html css matplotlib seaborn opencv```
+---
+
+### Connect with me:
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aadhitya-vijaisenthil)
+
+---
+
+### Languages and Tools:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=r" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=dart" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=flutter" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=flask" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=sqlite" />
+  <img src="https://skillicons.dev/icons?i=firebase" />
+  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=matlab" />
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
