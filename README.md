@@ -8,7 +8,7 @@
 
 📘 Research Interests: Clinical AI, Machine Learning, Backend Engineering, Signal Processing, HPC, Data Systems
 
-🔥 Fun facts: I like building projects that push compute limits, and I grew up around tech and logistics before diving deep into data.
+🔥 Fun facts: I like building projects that push compute limits, and I grew up around tech and logistics before diving deep into data. I also like photography and videography!
 
 ⭐ I serve as Internal Vice President of UF’s Data Science and Informatics Club, where we run workshops, projects, and partnerships in data and AI.
 
