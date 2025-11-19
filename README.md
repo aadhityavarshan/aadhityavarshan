@@ -1,6 +1,6 @@
 # Aadhitya Varshan Durgadevi Vijaisenthil
 
-🧠 I work on ML systems that read ICU data at UF, build backend systems for fintech at Build Up, and create high scale data tools used at Lockheed Martin and Dartexon.
+🧠 I work on ML systems that read ICU data at UF, build backend systems for fintech at Build Up, and built high scale data tools used at Lockheed Martin and Dartexon.
 
 🌱 I’m learning more about clinical AI, agentic systems, high scale compute, and reinforcement learning.
 
