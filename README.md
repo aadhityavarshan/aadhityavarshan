@@ -1,12 +1,12 @@
 # Aadhitya Varshan Durgadevi Vijaisenthil
 
-🧠 I work on ML systems that read ICU data at UF, build backend systems for fintech at Build Up, and built high scale data tools used at Lockheed Martin and Dartexon.
+🧠 I work on ICU EHR data analytics at UF, build operational dashboards at Lockheed Martin, and analyze payment and merchant data at BuildUp.
 
-🌱 I’m learning more about clinical AI, agentic systems, high scale compute, and reinforcement learning.
+🌱 I’m learning more about clinical data modeling, statistical learning, and scalable data systems.
 
 📫 Reach me at **reachaadhityavarshan@gmail.com** or through my **LinkedIn**.
 
-📘 Research Interests: Clinical AI, Machine Learning, Backend Engineering, Signal Processing, HPC, Data Systems
+📘 Research Interests: Clinical Data Analytics, Applied Machine Learning, Statistical Modeling, Data Engineering, Data Systems
 
 🔥 Fun facts: I like building projects that push compute limits, and I grew up around tech and logistics before diving deep into data. I also like photography and videography!
 
