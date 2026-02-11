@@ -17,6 +17,8 @@
 ### Connect with me:
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aadhitya-vijaisenthil)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/aadhi.vars)
+
 
 ---
 
