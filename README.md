@@ -1,16 +1,16 @@
 # Aadhitya Varshan Durgadevi Vijaisenthil
 
-🧠 I work on ICU EHR data analytics at UF, build operational dashboards at Lockheed Martin, and analyze payment and merchant data at BuildUp.
+I work on ICU EHR data analytics at UF, build operational dashboards at Lockheed Martin, and analyze payment and merchant data at BuildUp.
 
-🌱 I’m learning more about clinical data modeling, statistical learning, and scalable data systems.
+I’m learning more about clinical data modeling, statistical learning, and scalable data systems.
 
-📫 Reach me at **reachaadhityavarshan@gmail.com** or through my **LinkedIn**.
+Reach me at **reachaadhityavarshan@gmail.com** or through my **LinkedIn**.
 
-📘 Research Interests: Clinical Data Analytics, Applied Machine Learning, Statistical Modeling, Data Engineering, Data Systems
+Research Interests: Clinical Data Analytics, Applied Machine Learning, Statistical Modeling, Data Engineering, Data Systems
 
-🔥 Fun facts: I like building projects that push compute limits, and I grew up around tech and logistics before diving deep into data. I also like photography and videography!
+Fun facts: I like building projects that push compute limits, and I grew up around tech and logistics before diving deep into data. I also like photography and videography!
 
-⭐ I serve as Internal Vice President of UF’s Data Science and Informatics Club, where we run workshops, projects, and partnerships in data and AI.
+I serve as Internal Vice President of UF’s Data Science and Informatics Club, where we run workshops, projects, and partnerships in data and AI.
 
 ---
 
